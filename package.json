@@ -1,0 +1,27 @@
+{
+  "name": "sourcerer",
+  "version": "0.0.1",
+  "description": "codable isomotric browser videogame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://giorgio-zamparelli@github.com/giorgio-zamparelli/sourcerer.git"
+  },
+  "keywords": [
+    "isomotric",
+    "browser",
+    "videogame"
+  ],
+  "author": "Giorgio <giorgio.zamparelli@gmail.com> (https://github.com/giorgio-zamparelli)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giorgio-zamparelli/sourcerer/issues"
+  },
+  "homepage": "https://github.com/giorgio-zamparelli/sourcerer#readme",
+  "dependencies": {
+    "isomer": "0.2.6"
+  }
+}
