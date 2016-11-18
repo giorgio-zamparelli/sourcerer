@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/giorgio-zamparelli/sourcerer#readme",
   "dependencies": {
-    "isomer": "0.2.6"
+    "isomer": "0.2.6",
+    "three": "0.82.1"
   }
 }
